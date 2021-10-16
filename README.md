@@ -1,5 +1,5 @@
 
-Based on The great [[https://forums.x-plane.org/index.php?/files/file/22794-csb3-st-mathieu-de-beloeil/][original version by AndrooC]]
+Based on The great https://forums.x-plane.org/index.php?/files/file/22794-csb3-st-mathieu-de-beloeil[original version by AndrooC]]
 
 This is a small GA field east of Montreal in the town of Beloeil, Quebec, Canada. It has some helicopter services and quite a lot of GA aircraft activity.
 
@@ -9,6 +9,7 @@ Happy flying!
 
 Uses:
 
+    SAM For animation
     OpensceneryX
     Ground Traffic by Marginal
     Custom objects
@@ -19,9 +20,16 @@ Updates from original version:
     New taxy way bravo and small related ones
     Taxi lines
     Wind socks
-    Updated small things like buildings fence, ...
+    AeroPaul
+    Hangar 1 with interior
 
 
 Git repository: https://github.com/jeansch/csb3-xplane-scenary
 
 Feel free to clone, update and PR.
+
+
+The hangar numbers depend on this diagram
+
+
+![alt text](https://media.discordapp.net/attachments/848711787523604561/898705613511614474/Numerotation_Hangar.png?width=548&height=550)
