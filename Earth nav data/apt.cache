@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<apt sam="true" revision="6" sam_path="F:\SteamLibrary\steamapps\common\X-Plane 11\Custom Scenery\csb3-xplane-scenary-master\sam.xml">
+	<plugin_config sam="2.2.9" WorldJetways="1.0.4" />
+	<airport name="St Mathieu-de-Beloeil" icao="CSB3" iata="" elevation="153" latitude="45.592664880000001" longitude="-73.241509820000005">
+		<startup_location latitude="45.586943079999998" longitude="-73.235090189999994" heading="-45" name="GAKW" airline_code="" type="misc" width_code="a" operation_type="none" is_legacy="false">
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="45.587032729999997" longitude="-73.234962089999996" heading="-42.710000000000001" name="GNEA" airline_code="" type="misc" width_code="a" operation_type="none" is_legacy="false">
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="45.586779589999999" longitude="-73.234657650000003" heading="0" name="FOJL" airline_code="" type="misc" width_code="a" operation_type="none" is_legacy="false">
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="45.586900030000002" longitude="-73.234893209999996" heading="45" name="GITN" airline_code="" type="misc" width_code="a" operation_type="none" is_legacy="false">
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="45.591970529999998" longitude="-73.240939490000002" heading="0" name="NorthHoldShort" airline_code="" type="misc" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="45.593090189999998" longitude="-73.243287179999996" heading="83.159999999999997" name="North GA" airline_code="" type="misc" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="45.587427669999997" longitude="-73.235284989999997" heading="-137.22" name="South GA" airline_code="" type="misc" width_code="b" operation_type="none" is_legacy="false">
+			<airplane_type type="props" />
+		</startup_location>
+	</airport>
+</apt>
